@@ -27,8 +27,10 @@ This project provides a comprehensive analysis of the Indian Electric Vehicle (E
 - **Power BI**: Used for data visualization and dashboard creation.
 - **Excel**: Utilized for data processing and analysis.
 
-## Installation and Setup
+## Description of files uploaded
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/atliq-motors-ev-analysis.git
+-*Datasets used* - Data that is erequired to built this whole project.
+-*Logos and Images* - Logos and Images that I have used to make presentation and Dashboard.
+
+## Snapshot of the Dashboard
+
