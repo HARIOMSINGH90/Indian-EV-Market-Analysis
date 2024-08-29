@@ -32,3 +32,33 @@ This project provides a comprehensive analysis of the Indian Electric Vehicle (E
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/atliq-motors-ev-analysis.git
+
+/atliq-motors-ev-analysis
+│
+├── data/
+│   ├── raw/
+│   │   └── raw_data.csv
+│   ├── processed/
+│   │   └── processed_data.csv
+│   └── README.md
+│
+├── notebooks/
+│   ├── data_analysis.ipynb
+│   └── README.md
+│
+├── scripts/
+│   ├── analysis_script.py
+│   └── data_processing.py
+│
+├── dashboard/
+│   ├── AtliQ_Motors_EV_Analysis.pbix
+│   └── README.md
+│
+├── images/
+│   └── dashboard_screenshots/
+│       └── screenshot1.png
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+
