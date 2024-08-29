@@ -5,7 +5,7 @@
 This project provides a comprehensive analysis of the Indian Electric Vehicle (EV) and Hybrid market for AtliQ Motors. The analysis aims to offer strategic insights to assist AtliQ Motors in making informed business decisions, focusing on market trends, sales data, and key performance indicators.
 
 - **LIVE DASHBOARD** : https://shorturl.at/8Ca5M
-- **LINKDIN POST** :
+- **DETAILED VIDEO PRESENTATION** : 
 - **SPECIAL THANKS TO** : https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 ## Description of files uploaded
