@@ -41,7 +41,8 @@ This project provides a comprehensive analysis of the Indian Electric Vehicle (E
 ## Snapshot of the Dashboard
 
 Homepage :
-[Screenshot 2024-08-26 172548](https://github.com/user-attachments/assets/fdffc74f-73af-4aa3-b192-610c46c811db) 
+![Screenshot 2024-08-26 172625](https://github.com/HARIOMSINGH90/Indian-EV-Market-Analysis/issues/2#issue-2493690774)
+ 
 
 Overview :
 ![Screenshot 2024-08-26 172625](https://github.com/user-attachments/assets/ac4e9ae2-f416-47b2-ae48-716b832aa4ad)
