@@ -20,12 +20,12 @@ This project provides a comprehensive analysis of the Indian Electric Vehicle (E
 - **Data Sources**:
   - Sales data by state and maker.
   - Date dimension table for time-based analysis.
+  - json file of india and its state.
 
 ## Tools and Technologies
 
 - **Power BI**: Used for data visualization and dashboard creation.
-- **Python**: Utilized for data processing and analysis.
-- **Pandas, NumPy**: Python libraries used for data manipulation.
+- **Excel**: Utilized for data processing and analysis.
 
 ## Installation and Setup
 
