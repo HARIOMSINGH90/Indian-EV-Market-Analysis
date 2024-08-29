@@ -5,13 +5,14 @@
 This project provides a comprehensive analysis of the Indian Electric Vehicle (EV) and Hybrid market for AtliQ Motors. The analysis aims to offer strategic insights to assist AtliQ Motors in making informed business decisions, focusing on market trends, sales data, and key performance indicators.
 
 - **LIVE DASHBOARD** : https://shorturl.at/8Ca5M
-- **LINKDIN POST** : 
+- **LINKDIN POST** :
+- **SPECIAL THANKS TO** : https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 ## Description of files uploaded
 
 - **RPC12.PBIX**- PBIX Dashboard File (You can modify it according to your need)
-- **Datasets used** - Data that is erequired to built this whole project.
-- **Logos and Images** - Logos and Images that I have used to make presentation and Dashboard.
+- **Datasets_ZIP.zip** - Data that is required to built this whole project.
+- **Research_ZIP.zip** - All the supporting documents and analysis done related to this Project will in this zip file.
 
 ## Features
 
